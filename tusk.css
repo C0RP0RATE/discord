@@ -58,7 +58,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			url(https://i.pinimg.com/564x/c2/7c/93/c27c93e57db5bd1928b5b7755099e129.jpg);	/* general background image					*/
+	--background:			url(https://cdn.discordapp.com/attachments/1248146724824940544/1249053869917339709/tustcool.png?ex=6665e790&is=66649610&hm=3cdc39d15311ebae127d9f4f91e28fb92c9276500b3b1de17b9a61fac1c2b9e1&);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
